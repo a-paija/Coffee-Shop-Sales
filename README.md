@@ -54,28 +54,27 @@ The interactive dashboard contains **6 key elements**:
 3. Explore the charts and pivot table to answer the recommended analysis questions.  
 
 ---
-## Rawdata
+<details>
+<summary><strong>RawData (Click to Open)</strong></summary>
 
 ![RawData](https://github.com/a-paija/Coffee-Shop-Sales/blob/main/Preview/Data.png)
 
-## Dashboard
+</details>
+   
+<details>
+<summary><strong>Dashboard (Click to Open)</strong></summary>
 
 <img src="https://github.com/a-paija/Coffee-Shop-Sales/blob/main/Preview/Coffee%201.png" height="600" width="600" />
 <img src="https://github.com/a-paija/Coffee-Shop-Sales/blob/main/Preview/Coffee%202.png" height="600" width="600" />
 <img src="https://github.com/a-paija/Coffee-Shop-Sales/blob/main/Preview/Coffee%203.png" height="600" width="600" />
 <img src="https://github.com/a-paija/Coffee-Shop-Sales/blob/main/Preview/Coffee%204.png" height="600" width="600" />
 
-
-
+</details>
 
 ---
 
-## Key Insights (Optional Section for Future Updates)
+## Key Insights
 
-- Monthly revenue trends show peak sales in certain months (e.g., winter holidays)  
-- Busiest days are typically **Fridays and Saturdays** due to higher foot traffic  
-- Peak hours vary slightly by location but generally include **morning coffee rush** and **afternoon break times**  
-- Certain product categories (e.g., specialty drinks) drive the most revenue  
 
 ---
 
