@@ -134,5 +134,7 @@ Summary:
 
 2. Use the **location slicer** to filter the dashboard for a specific store.
  
-3. Explore the charts and pivot table to answer the recommended analysis questions.  
+3. Explore the charts and pivot table to answer the recommended analysis questions.
+
+Data Source: [Maven Analytics](https://mavenanalytics.io/data-playground/coffee-shop-sales)
 
