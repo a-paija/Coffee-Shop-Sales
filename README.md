@@ -43,15 +43,7 @@ The interactive dashboard contains **6 key elements**:
 3. **Transactions by Day of Week Bar Chart** – shows the busiest days  
 4. **Transactions by Hour of Day Bar Chart** – highlights peak hours  
 5. **Transactions by Product Category Column Chart** – identifies category-level trends  
-6. **Top 15 Products Pivot Table** – displays top-selling products with transaction count and revenue  
-
----
-
-## How to Use
-
-1. Open the Excel workbook.  
-2. Use the **location slicer** to filter the dashboard for a specific store.  
-3. Explore the charts and pivot table to answer the recommended analysis questions.  
+6. **Top 15 Products Pivot Table** – displays top-selling products with transaction count and revenue
 
 ---
 <details>
@@ -75,7 +67,72 @@ The interactive dashboard contains **6 key elements**:
 
 ## Key Insights
 
+1. Saturdays and Sundays are consistently low-transaction days across most locations, suggesting lower weekend foot traffic.
+
+2. Across all stores, peak transactions are between 8–11am, which reflects strong morning commuter demand (6-10am for Astoria).
+
+3. Transaction volume tends to decline after 12pm, indicating that afternoon/evening is underutilized.
+
+4. Bakery items perform well, showing strong pairing with beverages.
+
+5. Niche categories (chocolate, beans, packaged goods) are minimal contributors.
+
+6. Syrups and packaged products are very low performers.
 
 ---
 
-This project demonstrates how **Excel dashboards** can be used for actionable business insights, combining raw transaction data with interactive visualizations.
+## Business Recommendations
+
+- Since 8–11am is the crunch time, ensure staffing is highest in mornings.
+   
+- Introduce mobile ordering & quick-pickup lanes to speed service for morning rush.
+
+- Introduce afternoon happy hour specials (discount tea/coffee refills, bakery markdowns) to mitigate Revenue drops post-12pm
+
+- Launch weekend promotions or loyalty offers (e.g., “Buy 1, Get 1” or family bundles) to capture more leisure customers to boost Weekend Sales.
+
+- Introduce bakery meal deals (coffee + pastry) to raise attach rate to boost bakery sales.
+
+- Capitalize on seasonal variations (spiced chai, flavored hot chocolates) to push margins.
+
+- Consider downsizing low-Performers (Packaged chocolate, branded items, and syrups = low revenue) to reallocate shelf space for high-performing categories.
+
+---
+
+## Location-Specific Actions
+Astoria: 
+
+- Transactions drop after 10am
+- Explore localized marketing or community events
+- Offer brunch/happy hour specials
+
+Hell’s Kitchen:
+
+- Stronger Sunday traffic compared to others
+- Could test weekend brunch-style offerings
+- Close business at 7pm to improve profit margins (low transactions and generated revenue past 7pm)
+
+Lower Manhattan: 
+
+- High growth but depends on Monday Morning commuters
+- Consider delivery partnerships to capture remote workers
+- Close business at 6pm or 630pm to improve profit margins as transactions and revenue after this time is almost neglibile
+
+---
+
+Summary:
+
+• Morning commuter business is the backbone
+
+• Coffee + Tea dominate, with bakery as a cross-sell opportunity.
+
+• Weekends and Afternoons need targeted offers to lift lagging performance
+
+## How to Use
+
+1. Open the Excel workbook.
+
+2. Use the **location slicer** to filter the dashboard for a specific store.
+ 
+3. Explore the charts and pivot table to answer the recommended analysis questions.  
+
