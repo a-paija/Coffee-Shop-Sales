@@ -1,4 +1,4 @@
-# Maven Roasters Sales Dashboard
+# Maven Roasters Sales Dashboard & Analysis
 
 This **Excel project** analyzes transaction records for **Maven Roasters**, a fictitious coffee shop operating across three New York City locations. The project includes both the raw data and an interactive dashboard to explore sales trends and performance.
 
